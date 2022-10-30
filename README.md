@@ -9,6 +9,7 @@ Skills: C/mysql/Java / JS / HTML / CSS
 - 🌱 I’m currently learning software engineering degree 
 - 📫 How to reach me: via e-mail 
 
+[![@naveensilva's Holopin board](https://holopin.me/naveensilva)](https://holopin.io/@naveensilva)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaveenSilva)  
 
