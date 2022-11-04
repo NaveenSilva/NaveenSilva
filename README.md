@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Naveen
+### Hi there 👋, I'm Naveen
 ![](https://arturssmirnovs.github.io/github-profile-readsdme-generator/images/banner.png)
 
 I am undergraduate of N.S.B.M Green University who following software engineering degree.
@@ -17,7 +17,7 @@ Skills: C/mysql/Java / JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSilva)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenSilva&show_icons=true)  
