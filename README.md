@@ -3,7 +3,7 @@
 
 I am undergraduate of N.S.B.M Green University who following software engineering degree.
 
-Skills: C/mysql/Java / JS / HTML / CSS
+Skills: C/mysql/Java / JS / HTML / CSS / c#
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning software engineering degree 
